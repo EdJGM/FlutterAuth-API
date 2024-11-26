@@ -1,0 +1,17 @@
+{
+    "name": "danie/api_php",
+    "autoload": {
+        "psr-4": {
+            "Danie\\ApiPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "AvilesDanie",
+            "email": "daaviles3@espe.edu.ec"
+        }
+    ],
+    "require": {
+        "firebase/php-jwt": "^6.10"
+    }
+}
