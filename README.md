@@ -1,4 +1,4 @@
-# Grupo 6 - Informe 1.2
+# FlutterAuth API 
 
 ## Descripción del Proyecto
 
