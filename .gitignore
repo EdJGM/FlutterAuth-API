@@ -86,6 +86,11 @@ BACKEND/logs/
 BACKEND/cache/
 BACKEND/tmp/
 BACKEND/config/local.php
+.vendor/*
+.vendor/
+
+composer.lock   
+
 
 # PHP specific
 *.log
