@@ -1,0 +1,145 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+#.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/flutter_assets/
+**/ios/Flutter/flutter_export_environment.sh
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+/build/
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Android Studio will place build artifacts here
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+# Flutter build outputs
+front/build/
+front/.dart_tool/
+front/.flutter-plugins
+front/.flutter-plugins-dependencies
+front/.packages
+front/.pub-cache/
+front/.pub/
+
+# iOS
+front/ios/Pods/
+front/ios/.symlinks/
+front/ios/Flutter/flutter_assets/
+front/ios/Flutter/flutter_export_environment.sh
+front/ios/Flutter/Generated.xcconfig
+front/ios/Flutter/app.flx
+front/ios/Flutter/app.zip
+front/ios/Flutter/flutter_assets/
+front/ios/ServiceDefinitions.json
+front/ios/Runner/GeneratedPluginRegistrant.*
+
+# Android
+front/android/.gradle/
+front/android/captures/
+front/android/gradlew
+front/android/gradlew.bat
+front/android/local.properties
+front/android/**/outputs/
+front/android/**/build/
+
+# Web
+front/web/main.dart.js
+front/web/main.dart.js.map
+
+# PHP/Composer related
+BACKEND/vendor/
+BACKEND/composer.lock
+BACKEND/.env
+BACKEND/logs/
+BACKEND/cache/
+BACKEND/tmp/
+BACKEND/config/local.php
+
+# PHP specific
+*.log
+*.tmp
+.htaccess
+.env.local
+.env.production
+
+# Database
+*.sql
+*.db
+*.sqlite
+*.sqlite3
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.code-workspace
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Node modules (if any)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+*~
+
+# Coverage reports
+coverage/
+*.lcov
+
+# Test results
+test-results/
+reports/
